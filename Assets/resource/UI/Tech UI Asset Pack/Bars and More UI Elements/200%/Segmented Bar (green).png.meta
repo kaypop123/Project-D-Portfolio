@@ -1,0 +1,3549 @@
+fileFormatVersion: 2
+guid: 8f8458b09cbb3314c8a1f41d4c253b54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 800387763915352967
+    second: Segmented Bar (green)_0
+  - first:
+      213: 3762656455155764788
+    second: Segmented Bar (green)_1
+  - first:
+      213: 4978788318890615893
+    second: Segmented Bar (green)_2
+  - first:
+      213: -2511255599350330408
+    second: Segmented Bar (green)_3
+  - first:
+      213: 8299755205647356278
+    second: Segmented Bar (green)_4
+  - first:
+      213: -775363968544690156
+    second: Segmented Bar (green)_5
+  - first:
+      213: 5384062641752094340
+    second: Segmented Bar (green)_6
+  - first:
+      213: -6762520423202870617
+    second: Segmented Bar (green)_7
+  - first:
+      213: 2198792089213806395
+    second: Segmented Bar (green)_8
+  - first:
+      213: -2866414502644533786
+    second: Segmented Bar (green)_9
+  - first:
+      213: 6819414359423399086
+    second: Segmented Bar (green)_10
+  - first:
+      213: -6554194548399090755
+    second: Segmented Bar (green)_11
+  - first:
+      213: -5686958274839962970
+    second: Segmented Bar (green)_12
+  - first:
+      213: 7959576860852336364
+    second: Segmented Bar (green)_13
+  - first:
+      213: -8722101935456470405
+    second: Segmented Bar (green)_14
+  - first:
+      213: 5882475545454482796
+    second: Segmented Bar (green)_15
+  - first:
+      213: 6543417675671494728
+    second: Segmented Bar (green)_16
+  - first:
+      213: 4503088602723656830
+    second: Segmented Bar (green)_17
+  - first:
+      213: -16716205530793477
+    second: Segmented Bar (green)_18
+  - first:
+      213: -3988182741149913266
+    second: Segmented Bar (green)_19
+  - first:
+      213: -3975633861221811001
+    second: Segmented Bar (green)_20
+  - first:
+      213: -7572505453182186293
+    second: Segmented Bar (green)_21
+  - first:
+      213: -536780609474789501
+    second: Segmented Bar (green)_22
+  - first:
+      213: 3495990826523422159
+    second: Segmented Bar (green)_23
+  - first:
+      213: 8434748452914379066
+    second: Segmented Bar (green)_24
+  - first:
+      213: 6036958623433211186
+    second: Segmented Bar (green)_25
+  - first:
+      213: 3972417710617104277
+    second: Segmented Bar (green)_26
+  - first:
+      213: -8397884710186196415
+    second: Segmented Bar (green)_27
+  - first:
+      213: 8082223451369818820
+    second: Segmented Bar (green)_28
+  - first:
+      213: 5629477406118896290
+    second: Segmented Bar (green)_29
+  - first:
+      213: -4421071579609874119
+    second: Segmented Bar (green)_30
+  - first:
+      213: -84810676612426492
+    second: Segmented Bar (green)_31
+  - first:
+      213: -578719085662450799
+    second: Segmented Bar (green)_32
+  - first:
+      213: 6648461154456439186
+    second: Segmented Bar (green)_33
+  - first:
+      213: -1050489384316939639
+    second: Segmented Bar (green)_34
+  - first:
+      213: -2180206869993211729
+    second: Segmented Bar (green)_35
+  - first:
+      213: -7487889208287711907
+    second: Segmented Bar (green)_36
+  - first:
+      213: 6995359194288558901
+    second: Segmented Bar (green)_37
+  - first:
+      213: -8817029000110929947
+    second: Segmented Bar (green)_38
+  - first:
+      213: -6545425505350442313
+    second: Segmented Bar (green)_39
+  - first:
+      213: 3811410456972063652
+    second: Segmented Bar (green)_40
+  - first:
+      213: 5995285668914143398
+    second: Segmented Bar (green)_41
+  - first:
+      213: -3151040597346896959
+    second: Segmented Bar (green)_42
+  - first:
+      213: 2339832091594720358
+    second: Segmented Bar (green)_43
+  - first:
+      213: 8985206520339200651
+    second: Segmented Bar (green)_44
+  - first:
+      213: -3740954000212581452
+    second: Segmented Bar (green)_45
+  - first:
+      213: -7714622016488335231
+    second: Segmented Bar (green)_46
+  - first:
+      213: 3662393426423855132
+    second: Segmented Bar (green)_47
+  - first:
+      213: -693038426314501614
+    second: Segmented Bar (green)_48
+  - first:
+      213: 2320655014496113956
+    second: Segmented Bar (green)_49
+  - first:
+      213: 2868403820754544422
+    second: Segmented Bar (green)_50
+  - first:
+      213: 3302713017844429005
+    second: Segmented Bar (green)_51
+  - first:
+      213: 2340965709224577113
+    second: Segmented Bar (green)_52
+  - first:
+      213: 2482296504494112625
+    second: Segmented Bar (green)_53
+  - first:
+      213: -4571342659286808519
+    second: Segmented Bar (green)_54
+  - first:
+      213: 799181438678463901
+    second: Segmented Bar (green)_55
+  - first:
+      213: 7293637749122087082
+    second: Segmented Bar (green)_56
+  - first:
+      213: -1486414988701508994
+    second: Segmented Bar (green)_57
+  - first:
+      213: -7876134561747725262
+    second: Segmented Bar (green)_58
+  - first:
+      213: -241583405487980245
+    second: Segmented Bar (green)_59
+  - first:
+      213: -8132521880516138439
+    second: Segmented Bar (green)_60
+  - first:
+      213: 781588682528951733
+    second: Segmented Bar (green)_61
+  - first:
+      213: -3915782760829906947
+    second: Segmented Bar (green)_62
+  - first:
+      213: 8047770461448738008
+    second: Segmented Bar (green)_63
+  - first:
+      213: 5995714111467294157
+    second: Segmented Bar (green)_64
+  - first:
+      213: 6798718624353640058
+    second: Segmented Bar (green)_65
+  - first:
+      213: 3687110150598393773
+    second: Segmented Bar (green)_66
+  - first:
+      213: 2807259117570916604
+    second: Segmented Bar (green)_67
+  - first:
+      213: -1400313368615301036
+    second: Segmented Bar (green)_68
+  - first:
+      213: -6335051612988812230
+    second: Segmented Bar (green)_69
+  - first:
+      213: 2964205511754648986
+    second: Segmented Bar (green)_70
+  - first:
+      213: 1122835650242267633
+    second: Segmented Bar (green)_71
+  - first:
+      213: 8640127494320310875
+    second: Segmented Bar (green)_72
+  - first:
+      213: -3372279381790472729
+    second: Segmented Bar (green)_73
+  - first:
+      213: -5716534374322792401
+    second: Segmented Bar (green)_74
+  - first:
+      213: -1457139532903386940
+    second: Segmented Bar (green)_75
+  - first:
+      213: 3822274513734419337
+    second: Segmented Bar (green)_76
+  - first:
+      213: -4967975273873460043
+    second: Segmented Bar (green)_77
+  - first:
+      213: -564601633983785195
+    second: Segmented Bar (green)_78
+  - first:
+      213: -4815397757067499799
+    second: Segmented Bar (green)_79
+  - first:
+      213: 2531606866598338243
+    second: Segmented Bar (green)_80
+  - first:
+      213: -9146330882023791200
+    second: Segmented Bar (green)_81
+  - first:
+      213: -5299498214234158702
+    second: Segmented Bar (green)_82
+  - first:
+      213: -1456538584713989982
+    second: Segmented Bar (green)_83
+  - first:
+      213: 9075800227577802032
+    second: Segmented Bar (green)_84
+  - first:
+      213: 2774282825736561372
+    second: Segmented Bar (green)_85
+  - first:
+      213: 8101637405395108916
+    second: Segmented Bar (green)_86
+  - first:
+      213: -3428611485682280291
+    second: Segmented Bar (green)_87
+  - first:
+      213: -7429046200516326546
+    second: Segmented Bar (green)_88
+  - first:
+      213: 3442857276526939744
+    second: Segmented Bar (green)_89
+  - first:
+      213: -3025313715204525441
+    second: Segmented Bar (green)_90
+  - first:
+      213: 5935830701129239248
+    second: Segmented Bar (green)_91
+  - first:
+      213: -9189602575892741395
+    second: Segmented Bar (green)_92
+  - first:
+      213: 4880939991396133481
+    second: Segmented Bar (green)_93
+  - first:
+      213: -4020816865182029269
+    second: Segmented Bar (green)_94
+  - first:
+      213: 4261302778350513055
+    second: Segmented Bar (green)_95
+  - first:
+      213: -8899466724634097571
+    second: Segmented Bar (green)_96
+  - first:
+      213: -4640242712573201661
+    second: Segmented Bar (green)_97
+  - first:
+      213: -8468459192108795823
+    second: Segmented Bar (green)_98
+  - first:
+      213: 3618203316651285035
+    second: Segmented Bar (green)_99
+  - first:
+      213: -5091928714133419223
+    second: Segmented Bar (green)_100
+  - first:
+      213: 108667191330573950
+    second: Segmented Bar (green)_101
+  - first:
+      213: 1062255651870384350
+    second: Segmented Bar (green)_102
+  - first:
+      213: 1306818470485939658
+    second: Segmented Bar (green)_103
+  - first:
+      213: 4866257010006648053
+    second: Segmented Bar (green)_104
+  - first:
+      213: 6465206487174056008
+    second: Segmented Bar (green)_105
+  - first:
+      213: -4425668867937012477
+    second: Segmented Bar (green)_106
+  - first:
+      213: -4470112381446756004
+    second: Segmented Bar (green)_107
+  - first:
+      213: -6658893962237271567
+    second: Segmented Bar (green)_108
+  - first:
+      213: -6787642538479427784
+    second: Segmented Bar (green)_109
+  - first:
+      213: -830490052742598621
+    second: Segmented Bar (green)_110
+  - first:
+      213: -9016057070616633463
+    second: Segmented Bar (green)_111
+  - first:
+      213: 5753940133521606764
+    second: Segmented Bar (green)_112
+  - first:
+      213: -2616858132462530314
+    second: Segmented Bar (green)_113
+  - first:
+      213: 539526031375663346
+    second: Segmented Bar (green)_114
+  - first:
+      213: -6185991422320077839
+    second: Segmented Bar (green)_115
+  - first:
+      213: -3330371459815428399
+    second: Segmented Bar (green)_116
+  - first:
+      213: -7569618072311059842
+    second: Segmented Bar (green)_117
+  - first:
+      213: -5951578510897336284
+    second: Segmented Bar (green)_118
+  - first:
+      213: -6872697008416531665
+    second: Segmented Bar (green)_119
+  - first:
+      213: 1131373217591925228
+    second: Segmented Bar (green)_120
+  - first:
+      213: 8853379423780003737
+    second: Segmented Bar (green)_121
+  - first:
+      213: 2356376097308741415
+    second: Segmented Bar (green)_122
+  - first:
+      213: -6151395718540834402
+    second: Segmented Bar (green)_123
+  - first:
+      213: -8518641716641470206
+    second: Segmented Bar (green)_124
+  - first:
+      213: 8095227453712729688
+    second: Segmented Bar (green)_125
+  - first:
+      213: -239614565028306901
+    second: Segmented Bar (green)_126
+  - first:
+      213: -7675613965380232471
+    second: Segmented Bar (green)_127
+  - first:
+      213: -1670405136597933628
+    second: Segmented Bar (green)_128
+  - first:
+      213: -4619000180445367755
+    second: Segmented Bar (green)_129
+  - first:
+      213: -2162388937884493950
+    second: Segmented Bar (green)_130
+  - first:
+      213: -764394387855746559
+    second: Segmented Bar (green)_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Segmented Bar (green)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b6ebe3e6c8b1b00800000000000000
+      internalID: 800387763915352967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 299
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ec36d4c14a73430800000000000000
+      internalID: 3762656455155764788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 299
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554e657e895381540800000000000000
+      internalID: 4978788318890615893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 299
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db438c665a362dd0800000000000000
+      internalID: -2511255599350330408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 299
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6715f43b267ae2370800000000000000
+      internalID: 8299755205647356278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 299
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410b143249a5d35f0800000000000000
+      internalID: -775363968544690156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 299
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486b51a527808ba40800000000000000
+      internalID: 5384062641752094340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 299
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa2ba42183b622a0800000000000000
+      internalID: -6762520423202870617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 299
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37278461cda38e10800000000000000
+      internalID: 2198792089213806395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 299
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e538de52337838d0800000000000000
+      internalID: -2866414502644533786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 299
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea431a5aa3d63ae50800000000000000
+      internalID: 6819414359423399086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 303
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3ded9a8c2da05a0800000000000000
+      internalID: -6554194548399090755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa12bf649dd311b0800000000000000
+      internalID: -5686958274839962970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 269
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6b589bbf8167e60800000000000000
+      internalID: 7959576860852336364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_14
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 269
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7abe5a508ed4f680800000000000000
+      internalID: -8722101935456470405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 269
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c659cb68750c2a150800000000000000
+      internalID: 5882475545454482796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 269
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840696f15b3eeca50800000000000000
+      internalID: 6543417675671494728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 269
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74247dc93f2e7e30800000000000000
+      internalID: 4503088602723656830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 269
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9385b13bc94cff0800000000000000
+      internalID: -16716205530793477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 269
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f6a6e5de027a8c0800000000000000
+      internalID: -3988182741149913266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 269
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccfbd82116b3d8c0800000000000000
+      internalID: -3975633861221811001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 269
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc0e53496e09e690800000000000000
+      internalID: -7572505453182186293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 269
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fffe131e8fc88f0800000000000000
+      internalID: -536780609474789501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 273
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcde3f85221448030800000000000000
+      internalID: 3495990826523422159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39bcb9570f3e0570800000000000000
+      internalID: 8434748452914379066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 239
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23db77102e597c350800000000000000
+      internalID: 6036958623433211186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 239
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f8dcc6cdcd02730800000000000000
+      internalID: 3972417710617104277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 239
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142eaa89958b47b80800000000000000
+      internalID: -8397884710186196415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_28
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 239
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caca365863d92070800000000000000
+      internalID: 8082223451369818820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 239
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2edc6efdbef1e40800000000000000
+      internalID: 5629477406118896290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 239
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93147ca72d235a2c0800000000000000
+      internalID: -4421071579609874119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 239
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4051b539321b2def0800000000000000
+      internalID: -84810676612426492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 239
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bc95ace0af7f7f0800000000000000
+      internalID: -578719085662450799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_33
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 239
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2990c56e134144c50800000000000000
+      internalID: 6648461154456439186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_34
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 239
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982587f7879eb61f0800000000000000
+      internalID: -1050489384316939639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_35
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 243
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8303927695eb1e0800000000000000
+      internalID: -2180206869993211729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5da786007ca51890800000000000000
+      internalID: -7487889208287711907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 209
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53315dbcf12841160800000000000000
+      internalID: 6995359194288558901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_38
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 209
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7021ac6de93a580800000000000000
+      internalID: -8817029000110929947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_39
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 209
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b22ec99e2af925a0800000000000000
+      internalID: -6545425505350442313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 209
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3770ded99d4e430800000000000000
+      internalID: 3811410456972063652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 209
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a02e9e2d88833350800000000000000
+      internalID: 5995285668914143398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 209
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3bd4a85414544d0800000000000000
+      internalID: -3151040597346896959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 209
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664009de3e0c87020800000000000000
+      internalID: 2339832091594720358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_44
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 209
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a775e79bdd1bc70800000000000000
+      internalID: 8985206520339200651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_45
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 209
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3a0404826751cc0800000000000000
+      internalID: -3740954000212581452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 209
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1881eca562820f490800000000000000
+      internalID: -7714622016488335231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_47
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 213
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1838b9ca6f63d230800000000000000
+      internalID: 3662393426423855132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21214df1935d166f0800000000000000
+      internalID: -693038426314501614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 179
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4251549b07f943020800000000000000
+      internalID: 2320655014496113956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_50
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 179
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627a278d31e9ec720800000000000000
+      internalID: 2868403820754544422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 179
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0fcafbdf795dd20800000000000000
+      internalID: 3302713017844429005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_52
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 179
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95883b9d8e7cc7020800000000000000
+      internalID: 2340965709224577113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_53
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 179
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fb091e483e27220800000000000000
+      internalID: 2482296504494112625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 179
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938ce9642145f80c0800000000000000
+      internalID: -4571342659286808519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_55
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 179
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95f383c843471b00800000000000000
+      internalID: 799181438678463901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_56
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 179
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa83dc4b3e4383560800000000000000
+      internalID: 7293637749122087082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_57
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 179
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a51a171713f5be0800000000000000
+      internalID: -1486414988701508994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_58
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 179
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23499db785952b290800000000000000
+      internalID: -7876134561747725262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_59
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 183
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2182443c29b5acf0800000000000000
+      internalID: -241583405487980245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a6eb7007a732f80800000000000000
+      internalID: -8132521880516138439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 149
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd8a9604c2c8da00800000000000000
+      internalID: 781588682528951733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_62
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 149
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff8223635858a9c0800000000000000
+      internalID: -3915782760829906947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_63
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 149
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d49884889c6faf60800000000000000
+      internalID: 8047770461448738008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_64
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 149
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd0eccb73e053350800000000000000
+      internalID: 5995714111467294157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_65
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 149
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e5e645196e95e50800000000000000
+      internalID: 6798718624353640058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_66
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 149
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf7726952f3b2330800000000000000
+      internalID: 3687110150598393773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_67
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 149
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf08a4f3b4365f620800000000000000
+      internalID: 2807259117570916604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_68
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 149
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45054711966119ce0800000000000000
+      internalID: -1400313368615301036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_69
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 149
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34590e5f106518a0800000000000000
+      internalID: -6335051612988812230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_70
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 149
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d04693539f22920800000000000000
+      internalID: 2964205511754648986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_71
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 153
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9c5d9231d159f00800000000000000
+      internalID: 1122835650242267633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a4c01cd26e7e770800000000000000
+      internalID: 8640127494320310875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 119
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e54105f4c14331d0800000000000000
+      internalID: -3372279381790472729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_74
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 119
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f281e28264acaa0b0800000000000000
+      internalID: -5716534374322792401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_75
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 119
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c07d19a05337cbe0800000000000000
+      internalID: -1457139532903386940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_76
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 119
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9834b214b627b0530800000000000000
+      internalID: 3822274513734419337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_77
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 119
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b439d35fc43e0bb0800000000000000
+      internalID: -4967975273873460043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_78
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 119
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5179ac62ec12a28f0800000000000000
+      internalID: -564601633983785195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_79
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 119
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e667c5c0454c2db0800000000000000
+      internalID: -4815397757067499799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_80
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 119
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce988a3803122320800000000000000
+      internalID: 2531606866598338243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_81
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 119
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a569caa584b11180800000000000000
+      internalID: -9146330882023791200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 119
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29981ccb3766476b0800000000000000
+      internalID: -5299498214234158702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_83
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 123
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0f870dfd559cbe0800000000000000
+      internalID: -1456538584713989982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d2f29a838b3fd70800000000000000
+      internalID: 9075800227577802032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_85
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 89
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2ae7ef78b308620800000000000000
+      internalID: 2774282825736561372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_86
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 89
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434c79fbb4cce6070800000000000000
+      internalID: 8101637405395108916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_87
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 89
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d985513f4002b60d0800000000000000
+      internalID: -3428611485682280291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_88
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 89
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b424667d9b6e890800000000000000
+      internalID: -7429046200516326546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_89
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 89
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ec1c3b37c77cf20800000000000000
+      internalID: 3442857276526939744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 89
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72fd1f643de306d0800000000000000
+      internalID: -3025313715204525441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_91
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 89
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da8aa3c29e406250800000000000000
+      internalID: 5935830701129239248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_92
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 89
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de206e45529f77080800000000000000
+      internalID: -9189602575892741395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_93
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 89
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a2a25df059cb340800000000000000
+      internalID: 4880939991396133481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_94
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 89
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aece34d503338c0800000000000000
+      internalID: -4020816865182029269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_95
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 93
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ba7ffac40332b30800000000000000
+      internalID: 4261302778350513055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5886c35a2ebe7480800000000000000
+      internalID: -8899466724634097571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 59
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303ba7586db8a9fb0800000000000000
+      internalID: -4640242712573201661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_98
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 59
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158b67b8b3df97a80800000000000000
+      internalID: -8468459192108795823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_99
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 59
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ad3261fb0763230800000000000000
+      internalID: 3618203316651285035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_100
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 59
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b477c00d5d559b0800000000000000
+      internalID: -5091928714133419223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_101
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 59
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e8ff91c30128100800000000000000
+      internalID: 108667191330573950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_102
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 59
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0a26623e3edbe00800000000000000
+      internalID: 1062255651870384350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_103
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 59
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5db3f9970c22210800000000000000
+      internalID: 1306818470485939658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_104
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 59
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f46333d7fa688340800000000000000
+      internalID: 4866257010006648053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_105
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 59
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8488f83cb0709b950800000000000000
+      internalID: 6465206487174056008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_106
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 59
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305fb11ec9dd492c0800000000000000
+      internalID: -4425668867937012477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_107
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 63
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c596ac50978f6f1c0800000000000000
+      internalID: -4470112381446756004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1aadfb83bd693a0800000000000000
+      internalID: -6658893962237271567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_109
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 29
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f5a9fd2137dc1a0800000000000000
+      internalID: -6787642538479427784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_110
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 29
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32038c872b18974f0800000000000000
+      internalID: -830490052742598621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_111
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 29
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f1f370dd780e280800000000000000
+      internalID: -9016057070616633463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_112
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 29
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c684b65d01a1adf40800000000000000
+      internalID: 5753940133521606764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_113
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 29
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f09afaa46d0fabd0800000000000000
+      internalID: -2616858132462530314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_114
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 29
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f009372118cc7700800000000000000
+      internalID: 539526031375663346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_115
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 29
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f39ff08391f62aa0800000000000000
+      internalID: -6185991422320077839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_116
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 29
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de2a976dc428c1d0800000000000000
+      internalID: -3330371459815428399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_117
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 29
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7aa582087053f690800000000000000
+      internalID: -7569618072311059842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_118
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 29
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420bd1d80eeb76da0800000000000000
+      internalID: -5951578510897336284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_119
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 33
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b5174eb764f90a0800000000000000
+      internalID: -6872697008416531665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce915f672f173bf00800000000000000
+      internalID: 1131373217591925228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_121
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fd820cda58dda70800000000000000
+      internalID: 8853379423780003737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_122
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f0f4d639783b020800000000000000
+      internalID: 2356376097308741415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_123
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99c38b7f2ad1aaa0800000000000000
+      internalID: -6151395718540834402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_124
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209e2ce0e74b7c980800000000000000
+      internalID: -8518641716641470206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_125
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85689829a76085070800000000000000
+      internalID: 8095227453712729688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_126
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b206a7892d7bcacf0800000000000000
+      internalID: -239614565028306901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_127
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eadb7004cdba7590800000000000000
+      internalID: -7675613965380232471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_128
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1a712e06781d8e0800000000000000
+      internalID: -1670405136597933628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_129
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532b613fec306efb0800000000000000
+      internalID: -4619000180445367755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_130
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2871923c7b6adf1e0800000000000000
+      internalID: -2162388937884493950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Segmented Bar (green)_131
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a5e8baa535465f0800000000000000
+      internalID: -764394387855746559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Segmented Bar (green)_0: 800387763915352967
+      Segmented Bar (green)_1: 3762656455155764788
+      Segmented Bar (green)_10: 6819414359423399086
+      Segmented Bar (green)_100: -5091928714133419223
+      Segmented Bar (green)_101: 108667191330573950
+      Segmented Bar (green)_102: 1062255651870384350
+      Segmented Bar (green)_103: 1306818470485939658
+      Segmented Bar (green)_104: 4866257010006648053
+      Segmented Bar (green)_105: 6465206487174056008
+      Segmented Bar (green)_106: -4425668867937012477
+      Segmented Bar (green)_107: -4470112381446756004
+      Segmented Bar (green)_108: -6658893962237271567
+      Segmented Bar (green)_109: -6787642538479427784
+      Segmented Bar (green)_11: -6554194548399090755
+      Segmented Bar (green)_110: -830490052742598621
+      Segmented Bar (green)_111: -9016057070616633463
+      Segmented Bar (green)_112: 5753940133521606764
+      Segmented Bar (green)_113: -2616858132462530314
+      Segmented Bar (green)_114: 539526031375663346
+      Segmented Bar (green)_115: -6185991422320077839
+      Segmented Bar (green)_116: -3330371459815428399
+      Segmented Bar (green)_117: -7569618072311059842
+      Segmented Bar (green)_118: -5951578510897336284
+      Segmented Bar (green)_119: -6872697008416531665
+      Segmented Bar (green)_12: -5686958274839962970
+      Segmented Bar (green)_120: 1131373217591925228
+      Segmented Bar (green)_121: 8853379423780003737
+      Segmented Bar (green)_122: 2356376097308741415
+      Segmented Bar (green)_123: -6151395718540834402
+      Segmented Bar (green)_124: -8518641716641470206
+      Segmented Bar (green)_125: 8095227453712729688
+      Segmented Bar (green)_126: -239614565028306901
+      Segmented Bar (green)_127: -7675613965380232471
+      Segmented Bar (green)_128: -1670405136597933628
+      Segmented Bar (green)_129: -4619000180445367755
+      Segmented Bar (green)_13: 7959576860852336364
+      Segmented Bar (green)_130: -2162388937884493950
+      Segmented Bar (green)_131: -764394387855746559
+      Segmented Bar (green)_14: -8722101935456470405
+      Segmented Bar (green)_15: 5882475545454482796
+      Segmented Bar (green)_16: 6543417675671494728
+      Segmented Bar (green)_17: 4503088602723656830
+      Segmented Bar (green)_18: -16716205530793477
+      Segmented Bar (green)_19: -3988182741149913266
+      Segmented Bar (green)_2: 4978788318890615893
+      Segmented Bar (green)_20: -3975633861221811001
+      Segmented Bar (green)_21: -7572505453182186293
+      Segmented Bar (green)_22: -536780609474789501
+      Segmented Bar (green)_23: 3495990826523422159
+      Segmented Bar (green)_24: 8434748452914379066
+      Segmented Bar (green)_25: 6036958623433211186
+      Segmented Bar (green)_26: 3972417710617104277
+      Segmented Bar (green)_27: -8397884710186196415
+      Segmented Bar (green)_28: 8082223451369818820
+      Segmented Bar (green)_29: 5629477406118896290
+      Segmented Bar (green)_3: -2511255599350330408
+      Segmented Bar (green)_30: -4421071579609874119
+      Segmented Bar (green)_31: -84810676612426492
+      Segmented Bar (green)_32: -578719085662450799
+      Segmented Bar (green)_33: 6648461154456439186
+      Segmented Bar (green)_34: -1050489384316939639
+      Segmented Bar (green)_35: -2180206869993211729
+      Segmented Bar (green)_36: -7487889208287711907
+      Segmented Bar (green)_37: 6995359194288558901
+      Segmented Bar (green)_38: -8817029000110929947
+      Segmented Bar (green)_39: -6545425505350442313
+      Segmented Bar (green)_4: 8299755205647356278
+      Segmented Bar (green)_40: 3811410456972063652
+      Segmented Bar (green)_41: 5995285668914143398
+      Segmented Bar (green)_42: -3151040597346896959
+      Segmented Bar (green)_43: 2339832091594720358
+      Segmented Bar (green)_44: 8985206520339200651
+      Segmented Bar (green)_45: -3740954000212581452
+      Segmented Bar (green)_46: -7714622016488335231
+      Segmented Bar (green)_47: 3662393426423855132
+      Segmented Bar (green)_48: -693038426314501614
+      Segmented Bar (green)_49: 2320655014496113956
+      Segmented Bar (green)_5: -775363968544690156
+      Segmented Bar (green)_50: 2868403820754544422
+      Segmented Bar (green)_51: 3302713017844429005
+      Segmented Bar (green)_52: 2340965709224577113
+      Segmented Bar (green)_53: 2482296504494112625
+      Segmented Bar (green)_54: -4571342659286808519
+      Segmented Bar (green)_55: 799181438678463901
+      Segmented Bar (green)_56: 7293637749122087082
+      Segmented Bar (green)_57: -1486414988701508994
+      Segmented Bar (green)_58: -7876134561747725262
+      Segmented Bar (green)_59: -241583405487980245
+      Segmented Bar (green)_6: 5384062641752094340
+      Segmented Bar (green)_60: -8132521880516138439
+      Segmented Bar (green)_61: 781588682528951733
+      Segmented Bar (green)_62: -3915782760829906947
+      Segmented Bar (green)_63: 8047770461448738008
+      Segmented Bar (green)_64: 5995714111467294157
+      Segmented Bar (green)_65: 6798718624353640058
+      Segmented Bar (green)_66: 3687110150598393773
+      Segmented Bar (green)_67: 2807259117570916604
+      Segmented Bar (green)_68: -1400313368615301036
+      Segmented Bar (green)_69: -6335051612988812230
+      Segmented Bar (green)_7: -6762520423202870617
+      Segmented Bar (green)_70: 2964205511754648986
+      Segmented Bar (green)_71: 1122835650242267633
+      Segmented Bar (green)_72: 8640127494320310875
+      Segmented Bar (green)_73: -3372279381790472729
+      Segmented Bar (green)_74: -5716534374322792401
+      Segmented Bar (green)_75: -1457139532903386940
+      Segmented Bar (green)_76: 3822274513734419337
+      Segmented Bar (green)_77: -4967975273873460043
+      Segmented Bar (green)_78: -564601633983785195
+      Segmented Bar (green)_79: -4815397757067499799
+      Segmented Bar (green)_8: 2198792089213806395
+      Segmented Bar (green)_80: 2531606866598338243
+      Segmented Bar (green)_81: -9146330882023791200
+      Segmented Bar (green)_82: -5299498214234158702
+      Segmented Bar (green)_83: -1456538584713989982
+      Segmented Bar (green)_84: 9075800227577802032
+      Segmented Bar (green)_85: 2774282825736561372
+      Segmented Bar (green)_86: 8101637405395108916
+      Segmented Bar (green)_87: -3428611485682280291
+      Segmented Bar (green)_88: -7429046200516326546
+      Segmented Bar (green)_89: 3442857276526939744
+      Segmented Bar (green)_9: -2866414502644533786
+      Segmented Bar (green)_90: -3025313715204525441
+      Segmented Bar (green)_91: 5935830701129239248
+      Segmented Bar (green)_92: -9189602575892741395
+      Segmented Bar (green)_93: 4880939991396133481
+      Segmented Bar (green)_94: -4020816865182029269
+      Segmented Bar (green)_95: 4261302778350513055
+      Segmented Bar (green)_96: -8899466724634097571
+      Segmented Bar (green)_97: -4640242712573201661
+      Segmented Bar (green)_98: -8468459192108795823
+      Segmented Bar (green)_99: 3618203316651285035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

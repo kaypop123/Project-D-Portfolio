@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 41801fcd61343274f9b063874ac03e06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1822584021094532460
+    second: Air 5_0
+  - first:
+      213: -5211917920303775430
+    second: Air 5_1
+  - first:
+      213: -6319121104356044301
+    second: Air 5_2
+  - first:
+      213: -3254072773582757604
+    second: Air 5_3
+  - first:
+      213: 2938071575730404182
+    second: Air 5_4
+  - first:
+      213: 2382762124820429182
+    second: Air 5_5
+  - first:
+      213: -7410292154790588832
+    second: Air 5_6
+  - first:
+      213: -8364829701184051092
+    second: Air 5_7
+  - first:
+      213: -781910042432882169
+    second: Air 5_8
+  - first:
+      213: 52191612184324395
+    second: Air 5_9
+  - first:
+      213: -2534366857978139460
+    second: Air 5_10
+  - first:
+      213: -6936587420934995556
+    second: Air 5_11
+  - first:
+      213: 2449587803166640387
+    second: Air 5_12
+  - first:
+      213: -4914691714630978605
+    second: Air 5_13
+  - first:
+      213: 5761221830705353023
+    second: Air 5_14
+  - first:
+      213: 5512004732451201751
+    second: Air 5_15
+  - first:
+      213: 3190628033572940439
+    second: Air 5_16
+  - first:
+      213: 8391908595380818954
+    second: Air 5_17
+  - first:
+      213: 470644608975799368
+    second: Air 5_18
+  - first:
+      213: 2919001605432032069
+    second: Air 5_19
+  - first:
+      213: 4599629351347535263
+    second: Air 5_20
+  - first:
+      213: -1034963124900550122
+    second: Air 5_21
+  - first:
+      213: -1960606741909017809
+    second: Air 5_22
+  - first:
+      213: -3993124293362112386
+    second: Air 5_23
+  - first:
+      213: -4524752245725236011
+    second: Air 5_24
+  - first:
+      213: -2814156164925813022
+    second: Air 5_25
+  - first:
+      213: -1924351889212325512
+    second: Air 5_26
+  - first:
+      213: 5007773905392390063
+    second: Air 5_27
+  - first:
+      213: -3123982071849924345
+    second: Air 5_28
+  - first:
+      213: 2457856810651115988
+    second: Air 5_29
+  - first:
+      213: -5301220401390916731
+    second: Air 5_30
+  - first:
+      213: -4455557785411369547
+    second: Air 5_31
+  - first:
+      213: 481302395703781210
+    second: Air 5_32
+  - first:
+      213: 5404386075015899712
+    second: Air 5_33
+  - first:
+      213: -6221287728579054221
+    second: Air 5_34
+  - first:
+      213: 7112533123852934854
+    second: Air 5_35
+  - first:
+      213: 1035921645562586283
+    second: Air 5_36
+  - first:
+      213: 7091753906348821654
+    second: Air 5_37
+  - first:
+      213: 8947705129918769194
+    second: Air 5_38
+  - first:
+      213: 1106766994334242106
+    second: Air 5_39
+  - first:
+      213: -826491018191583599
+    second: Air 5_40
+  - first:
+      213: -4518152916849175399
+    second: Air 5_41
+  - first:
+      213: -7048647378504020010
+    second: Air 5_42
+  - first:
+      213: -2123526152695493576
+    second: Air 5_43
+  - first:
+      213: -6347934074094989397
+    second: Air 5_44
+  - first:
+      213: -215218292673217709
+    second: Air 5_45
+  - first:
+      213: -3653422075645177629
+    second: Air 5_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Air 5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 193
+        height: 115
+      alignment: 9
+      pivot: {x: 0, y: 0.034782607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a7b514d71e4b6e0800000000000000
+      internalID: -1822584021094532460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 5_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 193
+        height: 115
+      alignment: 9
+      pivot: {x: 0, y: 0.034782607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a310dc1f34c8ba7b0800000000000000
+      internalID: -5211917920303775430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 5_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 193
+        height: 115
+      alignment: 9
+      pivot: {x: 0, y: 0.034782607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f11f22f5d8fd48a0800000000000000
+      internalID: -6319121104356044301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 5_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 193
+        height: 115
+      alignment: 9
+      pivot: {x: 0, y: 0.034782607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c116451ad0637d2d0800000000000000
+      internalID: -3254072773582757604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 5_4
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 0
+        width: 193
+        height: 115
+      alignment: 9
+      pivot: {x: 0, y: 0.034782607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b3514188026c820800000000000000
+      internalID: 2938071575730404182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 5_5
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 0
+        width: 193
+        height: 115
+      alignment: 9
+      pivot: {x: 0, y: 0.034782607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e793d223785411120800000000000000
+      internalID: 2382762124820429182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 5_6
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 0
+        width: 193
+        height: 115
+      alignment: 9
+      pivot: {x: 0, y: 0.034782607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ec7dfeb8a592990800000000000000
+      internalID: -7410292154790588832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 5_7
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 0
+        width: 193
+        height: 115
+      alignment: 9
+      pivot: {x: 0, y: 0.034782607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68a94e94b72aeb80800000000000000
+      internalID: -8364829701184051092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Air 5_8
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 0
+        width: 193
+        height: 115
+      alignment: 9
+      pivot: {x: 0, y: 0.034782607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a3a7a85f81625f0800000000000000
+      internalID: -781910042432882169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4fb1071aa6870dd4498bbd3674a7a1e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":193.0,"y":115.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Air 5_0: -1822584021094532460
+      Air 5_1: -5211917920303775430
+      Air 5_2: -6319121104356044301
+      Air 5_3: -3254072773582757604
+      Air 5_4: 2938071575730404182
+      Air 5_5: 2382762124820429182
+      Air 5_6: -7410292154790588832
+      Air 5_7: -8364829701184051092
+      Air 5_8: -781910042432882169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

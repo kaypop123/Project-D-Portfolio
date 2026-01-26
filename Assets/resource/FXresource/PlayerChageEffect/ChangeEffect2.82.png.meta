@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 402bc84c583a6d74b88b45bf7006b84a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 61899659096149135
+    second: ChangeEffect2.82_0
+  - first:
+      213: -7239046166106619405
+    second: ChangeEffect2.82_1
+  - first:
+      213: 1285603072258646530
+    second: ChangeEffect2.82_2
+  - first:
+      213: 2855963094446681321
+    second: ChangeEffect2.82_3
+  - first:
+      213: -7489342034343871791
+    second: ChangeEffect2.82_4
+  - first:
+      213: 2041464517941963162
+    second: ChangeEffect2.82_5
+  - first:
+      213: 4873953399335604439
+    second: ChangeEffect2.82_6
+  - first:
+      213: 8041368778942501441
+    second: ChangeEffect2.82_7
+  - first:
+      213: -3459249087932102744
+    second: ChangeEffect2.82_8
+  - first:
+      213: -8150485873699690374
+    second: ChangeEffect2.82_9
+  - first:
+      213: 4295905595572448788
+    second: ChangeEffect2.82_10
+  - first:
+      213: -6446602027895493711
+    second: ChangeEffect2.82_11
+  - first:
+      213: 1134463879707387846
+    second: ChangeEffect2.82_12
+  - first:
+      213: 778784929553508669
+    second: ChangeEffect2.82_13
+  - first:
+      213: 5274370178671802962
+    second: ChangeEffect2.82_14
+  - first:
+      213: 4482065202838515451
+    second: ChangeEffect2.82_15
+  - first:
+      213: -7881654063740215588
+    second: ChangeEffect2.82_16
+  - first:
+      213: 8913773194897532090
+    second: ChangeEffect2.82_17
+  - first:
+      213: 6837094232059523214
+    second: ChangeEffect2.82_18
+  - first:
+      213: -1960191401871803861
+    second: ChangeEffect2.82_19
+  - first:
+      213: -806055746148467371
+    second: ChangeEffect2.82_20
+  - first:
+      213: -3110653755264074742
+    second: ChangeEffect2.82_21
+  - first:
+      213: -5258942434721445282
+    second: ChangeEffect2.82_22
+  - first:
+      213: -4574314630798206933
+    second: ChangeEffect2.82_23
+  - first:
+      213: 8323836249972896930
+    second: ChangeEffect2.82_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.498}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChangeEffect2.82_0
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 682
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cc4287969ebd000800000000000000
+      internalID: 61899659096149135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_1
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 622
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1cf84bdddb98b90800000000000000
+      internalID: -7239046166106619405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_2
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 665
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202a02cce2167d110800000000000000
+      internalID: 1285603072258646530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_3
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 651
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecae188d4b62a720800000000000000
+      internalID: 2855963094446681321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 667
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da38899913801890800000000000000
+      internalID: -7489342034343871791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 638
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99ae75b92db45c10800000000000000
+      internalID: 2041464517941963162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_6
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 641
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0d43b1bc2c3a340800000000000000
+      internalID: 4873953399335604439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_7
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 627
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142d8c8ac4ea89f60800000000000000
+      internalID: 8041368778942501441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_8
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 628
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7863c48474effc0800000000000000
+      internalID: -3459249087932102744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 610
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a786a4fe748a3ee80800000000000000
+      internalID: -8150485873699690374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 610
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e65b4e06f1e9b30800000000000000
+      internalID: 4295905595572448788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 582
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbe9f67c911986a0800000000000000
+      internalID: -6446602027895493711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_12
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 580
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7687053ec6ebf00800000000000000
+      internalID: 1134463879707387846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 570
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39e67a64ccceca00800000000000000
+      internalID: 778784929553508669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_14
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 581
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a75a19bb3523940800000000000000
+      internalID: 5274370178671802962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 577
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe24531e8e733e30800000000000000
+      internalID: 4482065202838515451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_16
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 558
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde1048436dbe9290800000000000000
+      internalID: -7881654063740215588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_17
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 551
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4244a5e7514bb70800000000000000
+      internalID: 8913773194897532090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_18
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 545
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80b7c5cafc32ee50800000000000000
+      internalID: 6837094232059523214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_19
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 552
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2af7a73e400cc4e0800000000000000
+      internalID: -1960191401871803861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_20
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 541
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d78adc19050d4f0800000000000000
+      internalID: -806055746148467371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_21
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 471
+        width: 210
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cff3af3ecb4d4d0800000000000000
+      internalID: -3110653755264074742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 523
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a433cf7bb7407b0800000000000000
+      internalID: -5258942434721445282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_23
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 524
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28966c3415c480c0800000000000000
+      internalID: -4574314630798206933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChangeEffect2.82_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 508
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a47720c7f4348370800000000000000
+      internalID: 8323836249972896930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChangeEffect2.82_0: 61899659096149135
+      ChangeEffect2.82_1: -7239046166106619405
+      ChangeEffect2.82_10: 4295905595572448788
+      ChangeEffect2.82_11: -6446602027895493711
+      ChangeEffect2.82_12: 1134463879707387846
+      ChangeEffect2.82_13: 778784929553508669
+      ChangeEffect2.82_14: 5274370178671802962
+      ChangeEffect2.82_15: 4482065202838515451
+      ChangeEffect2.82_16: -7881654063740215588
+      ChangeEffect2.82_17: 8913773194897532090
+      ChangeEffect2.82_18: 6837094232059523214
+      ChangeEffect2.82_19: -1960191401871803861
+      ChangeEffect2.82_2: 1285603072258646530
+      ChangeEffect2.82_20: -806055746148467371
+      ChangeEffect2.82_21: -3110653755264074742
+      ChangeEffect2.82_22: -5258942434721445282
+      ChangeEffect2.82_23: -4574314630798206933
+      ChangeEffect2.82_24: 8323836249972896930
+      ChangeEffect2.82_3: 2855963094446681321
+      ChangeEffect2.82_4: -7489342034343871791
+      ChangeEffect2.82_5: 2041464517941963162
+      ChangeEffect2.82_6: 4873953399335604439
+      ChangeEffect2.82_7: 8041368778942501441
+      ChangeEffect2.82_8: -3459249087932102744
+      ChangeEffect2.82_9: -8150485873699690374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

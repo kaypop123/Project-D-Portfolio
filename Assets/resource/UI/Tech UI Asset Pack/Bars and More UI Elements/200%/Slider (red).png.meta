@@ -1,0 +1,3393 @@
+fileFormatVersion: 2
+guid: 9d97de7df7ee63048933d434a44284c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4705750259819943041
+    second: Slider (red)_0
+  - first:
+      213: -6021208501899265586
+    second: Slider (red)_1
+  - first:
+      213: -7641341334021599101
+    second: Slider (red)_2
+  - first:
+      213: 6852506099729670072
+    second: Slider (red)_3
+  - first:
+      213: 7579944891900694584
+    second: Slider (red)_4
+  - first:
+      213: 93812055932776364
+    second: Slider (red)_5
+  - first:
+      213: 8245422607792205233
+    second: Slider (red)_6
+  - first:
+      213: 3899675674090548413
+    second: Slider (red)_7
+  - first:
+      213: -9166246910065189087
+    second: Slider (red)_8
+  - first:
+      213: -4056390176335055358
+    second: Slider (red)_9
+  - first:
+      213: 9031903130363999331
+    second: Slider (red)_10
+  - first:
+      213: 493275377255115876
+    second: Slider (red)_11
+  - first:
+      213: 5656293335417706754
+    second: Slider (red)_12
+  - first:
+      213: 7919637528140765714
+    second: Slider (red)_13
+  - first:
+      213: -1982495981621358937
+    second: Slider (red)_14
+  - first:
+      213: 7270772931299707058
+    second: Slider (red)_15
+  - first:
+      213: 8484766076161221697
+    second: Slider (red)_16
+  - first:
+      213: -2035764880748095150
+    second: Slider (red)_17
+  - first:
+      213: -3051917535212776704
+    second: Slider (red)_18
+  - first:
+      213: 2803150855741045965
+    second: Slider (red)_19
+  - first:
+      213: 6652577310624017068
+    second: Slider (red)_20
+  - first:
+      213: 4614937361898531763
+    second: Slider (red)_21
+  - first:
+      213: 3120706331752770025
+    second: Slider (red)_22
+  - first:
+      213: 4874022525447170404
+    second: Slider (red)_23
+  - first:
+      213: -7703260137034046929
+    second: Slider (red)_24
+  - first:
+      213: -1440849579690307753
+    second: Slider (red)_25
+  - first:
+      213: -2484401417410774638
+    second: Slider (red)_26
+  - first:
+      213: -1817331343192578177
+    second: Slider (red)_27
+  - first:
+      213: -6729708466186225859
+    second: Slider (red)_28
+  - first:
+      213: 2528227113898326843
+    second: Slider (red)_29
+  - first:
+      213: 1262612092029584270
+    second: Slider (red)_30
+  - first:
+      213: 2641055152308035107
+    second: Slider (red)_31
+  - first:
+      213: 5107944672207019992
+    second: Slider (red)_32
+  - first:
+      213: -429272133796674784
+    second: Slider (red)_33
+  - first:
+      213: 8253173072458124943
+    second: Slider (red)_34
+  - first:
+      213: -5833230353592911325
+    second: Slider (red)_35
+  - first:
+      213: -2610733638751565584
+    second: Slider (red)_36
+  - first:
+      213: -3264176159451303526
+    second: Slider (red)_37
+  - first:
+      213: -7660414829196926499
+    second: Slider (red)_38
+  - first:
+      213: 8392161430325954752
+    second: Slider (red)_39
+  - first:
+      213: 7530082854285347429
+    second: Slider (red)_40
+  - first:
+      213: 5180617806256785285
+    second: Slider (red)_41
+  - first:
+      213: -8359300186804610312
+    second: Slider (red)_42
+  - first:
+      213: -4453684516107905774
+    second: Slider (red)_43
+  - first:
+      213: 388495634932556134
+    second: Slider (red)_44
+  - first:
+      213: -8192995644005103523
+    second: Slider (red)_45
+  - first:
+      213: 2481889093569335146
+    second: Slider (red)_46
+  - first:
+      213: -1628423967332519966
+    second: Slider (red)_47
+  - first:
+      213: -4094542893767253363
+    second: Slider (red)_48
+  - first:
+      213: 2736831064208318740
+    second: Slider (red)_49
+  - first:
+      213: -4625977231997159180
+    second: Slider (red)_50
+  - first:
+      213: 5128832788696508975
+    second: Slider (red)_51
+  - first:
+      213: 2230193926037954668
+    second: Slider (red)_52
+  - first:
+      213: 2343741677194055241
+    second: Slider (red)_53
+  - first:
+      213: 1379795766005594846
+    second: Slider (red)_54
+  - first:
+      213: 1464652154188022487
+    second: Slider (red)_55
+  - first:
+      213: -2814359435206948825
+    second: Slider (red)_56
+  - first:
+      213: -8694771746672468496
+    second: Slider (red)_57
+  - first:
+      213: 162222953153868203
+    second: Slider (red)_58
+  - first:
+      213: -4242040020289376402
+    second: Slider (red)_59
+  - first:
+      213: 2396173527574110718
+    second: Slider (red)_60
+  - first:
+      213: -5894018445964429141
+    second: Slider (red)_61
+  - first:
+      213: -4963522076968238686
+    second: Slider (red)_62
+  - first:
+      213: 7861649981926970577
+    second: Slider (red)_63
+  - first:
+      213: -1146036922400128374
+    second: Slider (red)_64
+  - first:
+      213: -4395850955845781521
+    second: Slider (red)_65
+  - first:
+      213: 5484546772406831173
+    second: Slider (red)_66
+  - first:
+      213: -4125848756354739444
+    second: Slider (red)_67
+  - first:
+      213: -8086622411381009259
+    second: Slider (red)_68
+  - first:
+      213: -5284313102932873579
+    second: Slider (red)_69
+  - first:
+      213: 1490699979932700973
+    second: Slider (red)_70
+  - first:
+      213: -8552803957035851967
+    second: Slider (red)_71
+  - first:
+      213: -6571703539250510030
+    second: Slider (red)_72
+  - first:
+      213: -7819087466629921382
+    second: Slider (red)_73
+  - first:
+      213: -8590708778737363472
+    second: Slider (red)_74
+  - first:
+      213: 5655133414006880540
+    second: Slider (red)_75
+  - first:
+      213: 3498843180224606465
+    second: Slider (red)_76
+  - first:
+      213: -13392750940107158
+    second: Slider (red)_77
+  - first:
+      213: 4909712313800145928
+    second: Slider (red)_78
+  - first:
+      213: 7586483793199268416
+    second: Slider (red)_79
+  - first:
+      213: 5863637834363522827
+    second: Slider (red)_80
+  - first:
+      213: -4244050148213698399
+    second: Slider (red)_81
+  - first:
+      213: -6138880319661909471
+    second: Slider (red)_82
+  - first:
+      213: -5541553757988343545
+    second: Slider (red)_83
+  - first:
+      213: -5900032978507572742
+    second: Slider (red)_84
+  - first:
+      213: -6855526433627746697
+    second: Slider (red)_85
+  - first:
+      213: -3176856849309236996
+    second: Slider (red)_86
+  - first:
+      213: 6161153515548252606
+    second: Slider (red)_87
+  - first:
+      213: 4661953489450410472
+    second: Slider (red)_88
+  - first:
+      213: 2132612569585068678
+    second: Slider (red)_89
+  - first:
+      213: -3535716942562734228
+    second: Slider (red)_90
+  - first:
+      213: -8993587658945654197
+    second: Slider (red)_91
+  - first:
+      213: 7231836706138560477
+    second: Slider (red)_92
+  - first:
+      213: 1646330006487293971
+    second: Slider (red)_93
+  - first:
+      213: -3284970965137725602
+    second: Slider (red)_94
+  - first:
+      213: -7179913261317467379
+    second: Slider (red)_95
+  - first:
+      213: -5624659948938087098
+    second: Slider (red)_96
+  - first:
+      213: -2812348310354969274
+    second: Slider (red)_97
+  - first:
+      213: -5056115252276400691
+    second: Slider (red)_98
+  - first:
+      213: 1791478772743412915
+    second: Slider (red)_99
+  - first:
+      213: -593714517782212204
+    second: Slider (red)_100
+  - first:
+      213: 130110348921542999
+    second: Slider (red)_101
+  - first:
+      213: -4897453016905029221
+    second: Slider (red)_102
+  - first:
+      213: -8710463499130357273
+    second: Slider (red)_103
+  - first:
+      213: 5368526535382226457
+    second: Slider (red)_104
+  - first:
+      213: -7417223698415719724
+    second: Slider (red)_105
+  - first:
+      213: 778565550321021757
+    second: Slider (red)_106
+  - first:
+      213: 6248815066443513816
+    second: Slider (red)_107
+  - first:
+      213: 1755788763426459598
+    second: Slider (red)_108
+  - first:
+      213: -2187969029170600375
+    second: Slider (red)_109
+  - first:
+      213: -2777240014366923485
+    second: Slider (red)_110
+  - first:
+      213: -6494156856853349116
+    second: Slider (red)_111
+  - first:
+      213: 7485842739201529940
+    second: Slider (red)_112
+  - first:
+      213: -5185984017417000780
+    second: Slider (red)_113
+  - first:
+      213: -69110407423793577
+    second: Slider (red)_114
+  - first:
+      213: 8241288733957742781
+    second: Slider (red)_115
+  - first:
+      213: -3125838674013321589
+    second: Slider (red)_116
+  - first:
+      213: 8620885624760931752
+    second: Slider (red)_117
+  - first:
+      213: -6021663773906037800
+    second: Slider (red)_118
+  - first:
+      213: 1685431003135513807
+    second: Slider (red)_119
+  - first:
+      213: 6651188811264078044
+    second: Slider (red)_120
+  - first:
+      213: 5533774778996598723
+    second: Slider (red)_121
+  - first:
+      213: -5987013916398163688
+    second: Slider (red)_122
+  - first:
+      213: -4027110590647470905
+    second: Slider (red)_123
+  - first:
+      213: -2096365433680709246
+    second: Slider (red)_124
+  - first:
+      213: 2253548754287996852
+    second: Slider (red)_125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slider (red)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184154eddee2e4140800000000000000
+      internalID: 4705750259819943041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1065
+        width: 96
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec97bbde4ce507ca0800000000000000
+      internalID: -6021208501899265586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1067
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3801222da8084f590800000000000000
+      internalID: -7641341334021599101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1045
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf9597ddfdf81f50800000000000000
+      internalID: 6852506099729670072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1039
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83017ca08bf513960800000000000000
+      internalID: 7579944891900694584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1041
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafa58d51994d4100800000000000000
+      internalID: 93812055932776364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bded68fc20ad6270800000000000000
+      internalID: 8245422607792205233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1013
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc266d3d5e6e1630800000000000000
+      internalID: 3899675674090548413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1015
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fda0a0003fac080800000000000000
+      internalID: -9166246910065189087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 993
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2063a2550aec4b7c0800000000000000
+      internalID: -4056390176335055358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 987
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364b5134b04c75d70800000000000000
+      internalID: 9031903130363999331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 989
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cecb5975778d600800000000000000
+      internalID: 493275377255115876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 967
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2095bfaf1d03f7e40800000000000000
+      internalID: 5656293335417706754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 961
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21adeae2f5438ed60800000000000000
+      internalID: 7919637528140765714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 963
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aec1de8862cc74e0800000000000000
+      internalID: -1982495981621358937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b805a47579f6e460800000000000000
+      internalID: 7270772931299707058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 935
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144efd3cac1ffb570800000000000000
+      internalID: 8484766076161221697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 937
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2595bcc70a28fb3e0800000000000000
+      internalID: -2035764880748095150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 915
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0035bd5eb2965a5d0800000000000000
+      internalID: -3051917535212776704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 909
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccf6400adac6e620800000000000000
+      internalID: 2803150855741045965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_20
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 911
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa619031d3b25c50800000000000000
+      internalID: 6652577310624017068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbe3a4641d8b0040800000000000000
+      internalID: 4614937361898531763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 883
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9af60efd9fe4b20800000000000000
+      internalID: 3120706331752770025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 885
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469e788c9a104a340800000000000000
+      internalID: 4874022525447170404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22a8af08b5881590800000000000000
+      internalID: -7703260137034046929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 857
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fc9c3f0f2110ce0800000000000000
+      internalID: -1440849579690307753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 859
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299f0c3e212a58dd0800000000000000
+      internalID: -2484401417410774638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 837
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77a2d1a5ca87c6e0800000000000000
+      internalID: -1817331343192578177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 831
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37f7073ec54b92a0800000000000000
+      internalID: -6729708466186225859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 833
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bbb6b3a21161320800000000000000
+      internalID: 2528227113898326843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 811
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8349821203b58110800000000000000
+      internalID: 1262612092029584270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 805
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e19890ba9e6a420800000000000000
+      internalID: 2641055152308035107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_32
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 807
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df9f37cd9013e640800000000000000
+      internalID: 5107944672207019992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0234319c44bea0af0800000000000000
+      internalID: -429272133796674784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 779
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e8fa5ae29298270800000000000000
+      internalID: 8253173072458124943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_35
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 781
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a711136e33c0fa0800000000000000
+      internalID: -5833230353592911325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 759
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8cc0b769fc4cbd0800000000000000
+      internalID: -2610733638751565584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 753
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a913b9bc31153b2d0800000000000000
+      internalID: -3264176159451303526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 755
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd12599ac4db0b590800000000000000
+      internalID: -7660414829196926499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 733
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c800587b52f67470800000000000000
+      internalID: 8392161430325954752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 727
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a00fab57a308860800000000000000
+      internalID: 7530082854285347429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_41
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 729
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587cffa527045e740800000000000000
+      internalID: 5180617806256785285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 707
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa97a205cccdfb80800000000000000
+      internalID: -8359300186804610312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 701
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2151bbb77855132c0800000000000000
+      internalID: -4453684516107905774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_44
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 703
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661e1fcb8b6346500800000000000000
+      internalID: 388495634932556134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 681
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58c0c0ced1ac4e80800000000000000
+      internalID: -8192995644005103523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 675
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fcd122bf0717220800000000000000
+      internalID: 2481889093569335146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_47
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 677
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efa96b870da669e0800000000000000
+      internalID: -1628423967332519966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8227639ee24d27c0800000000000000
+      internalID: -4094542893767253363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 649
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41124604a5d2bf520800000000000000
+      internalID: 2736831064208318740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_50
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 651
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8b3cb873a3dcfb0800000000000000
+      internalID: -4625977231997159180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 629
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aa1a26f364d2740800000000000000
+      internalID: 5128832788696508975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 623
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60e9b54f8d33fe10800000000000000
+      internalID: 2230193926037954668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_53
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 625
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e0e6243a4a68020800000000000000
+      internalID: 2343741677194055241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaf95f40f4062310800000000000000
+      internalID: 1379795766005594846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 597
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d243e9cf5d735410800000000000000
+      internalID: 1464652154188022487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_56
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 599
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728883a310361f8d0800000000000000
+      internalID: -2814359435206948825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd1c7cc927f55780800000000000000
+      internalID: -8694771746672468496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 571
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1b6299ae4504200800000000000000
+      internalID: 162222953153868203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_59
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 573
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f29aba31f3125c0800000000000000
+      internalID: -4242040020289376402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1ef3bb02be04120800000000000000
+      internalID: 2396173527574110718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_61
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 545
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8b0b4837d343ea0800000000000000
+      internalID: -5894018445964429141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_62
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 547
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1cf7708f60e1bb0800000000000000
+      internalID: -4963522076968238686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4963971013a1d60800000000000000
+      internalID: 7861649981926970577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 519
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82cbd4bd757810f0800000000000000
+      internalID: -1146036922400128374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_65
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 521
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7304b88dccef2c0800000000000000
+      internalID: -4395850955845781521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548035b2b360d1c40800000000000000
+      internalID: 5484546772406831173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 493
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c031d707a6a0eb6c0800000000000000
+      internalID: -4125848756354739444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_68
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 495
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5941ce8f2cb86cf80800000000000000
+      internalID: -8086622411381009259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e6eb9fa395aa6b0800000000000000
+      internalID: -5284313102932873579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 467
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d211292dbb700b410800000000000000
+      internalID: 1490699979932700973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_71
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 469
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f9253ad165e4980800000000000000
+      internalID: -8552803957035851967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237cbcd037e9cc4a0800000000000000
+      internalID: -6571703539250510030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_73
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 441
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9580db50650d7390800000000000000
+      internalID: -7819087466629921382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_74
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 443
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5978a91eba7c880800000000000000
+      internalID: -8590708778737363472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19725bb0e11b7e40800000000000000
+      internalID: 5655133414006880540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_76
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 415
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101f512b5536e8030800000000000000
+      internalID: 3498843180224606465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_77
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 417
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e46ad2d5b60dff0800000000000000
+      internalID: -13392750940107158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c3b6d265dc22440800000000000000
+      internalID: 4909712313800145928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_79
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 389
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04286e3a0da984960800000000000000
+      internalID: 7586483793199268416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_80
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 391
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f47c02b83df5150800000000000000
+      internalID: 5863637834363522827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a057ca40ea1a15c0800000000000000
+      internalID: -4244050148213698399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 363
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a5aebdfd05ecaa0800000000000000
+      internalID: -6138880319661909471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_83
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 365
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701bf5fa7327813b0800000000000000
+      internalID: -5541553757988343545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af957f8044fde1ea0800000000000000
+      internalID: -5900032978507572742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_85
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 337
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e415fd7074cd0a0800000000000000
+      internalID: -6855526433627746697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_86
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 339
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf008aaf68989e3d0800000000000000
+      internalID: -3176856849309236996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb917ecaa70d08550800000000000000
+      internalID: 6161153515548252606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_88
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 311
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1a512aff592b040800000000000000
+      internalID: 4661953489450410472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_89
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 313
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68aa6ad35df889d10800000000000000
+      internalID: 2132612569585068678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fc73c7c2c9eeec0800000000000000
+      internalID: -3535716942562734228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_91
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 285
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42153c9cab503380800000000000000
+      internalID: -8993587658945654197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_92
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 287
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd715071b25ac5460800000000000000
+      internalID: 7231836706138560477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310edb31b60f8d610800000000000000
+      internalID: 1646330006487293971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_94
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 259
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e576e7dcf407962d0800000000000000
+      internalID: -3284970965137725602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_95
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 261
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d035e0dfde2db5c90800000000000000
+      internalID: -7179913261317467379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645bd21c39131f1b0800000000000000
+      internalID: -5624659948938087098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_97
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 233
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d3f98bc1888f8d0800000000000000
+      internalID: -2812348310354969274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_98
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 235
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd61ac67f115d9b0800000000000000
+      internalID: -5056115252276400691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc1600c37c9cd810800000000000000
+      internalID: 1791478772743412915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_100
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 207
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491599daac3b2c7f0800000000000000
+      internalID: -593714517782212204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_101
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 209
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75912194cae3ec100800000000000000
+      internalID: 130110348921542999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99e53fcd60c80cb0800000000000000
+      internalID: -4897453016905029221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_103
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 181
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e93459f8973e1780800000000000000
+      internalID: -8710463499130357273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_104
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 183
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91657b4b076d08a40800000000000000
+      internalID: 5368526535382226457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da625c285ab01990800000000000000
+      internalID: -7417223698415719724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_106
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 155
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33bd353e350eca00800000000000000
+      internalID: 778565550321021757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_107
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 157
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df797ef13048b650800000000000000
+      internalID: 6248815066443513816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf08a8e390dd5810800000000000000
+      internalID: 1755788763426459598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_109
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946eab4a2c5c2a1e0800000000000000
+      internalID: -2187969029170600375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_110
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 131
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325a8afdbe24579d0800000000000000
+      internalID: -2777240014366923485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40db6970fbe10e5a0800000000000000
+      internalID: -6494156856853349116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_112
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 103
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4585b824f4e03e760800000000000000
+      internalID: 7485842739201529940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_113
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 105
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8a10f330fa708b0800000000000000
+      internalID: -5185984017417000780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756e83b53787a0ff0800000000000000
+      internalID: -69110407423793577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_115
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 77
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0eaf67070fe5270800000000000000
+      internalID: 8241288733957742781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_116
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 79
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b860242994ace94d0800000000000000
+      internalID: -3125838674013321589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a59521ecc983a770800000000000000
+      internalID: 8620885624760931752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_118
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d31e77a3b0ce6ca0800000000000000
+      internalID: -6021663773906037800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_119
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 53
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4925b419ad36710800000000000000
+      internalID: 1685431003135513807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0b27dfbf4cd4c50800000000000000
+      internalID: 6651188811264078044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_121
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 25
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7ab11a7daebcc40800000000000000
+      internalID: 5533774778996598723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_122
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 27
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81964c7409ad9eca0800000000000000
+      internalID: -5987013916398163688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c47e3d1144dc18c0800000000000000
+      internalID: -4027110590647470905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_124
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 96
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289bd0ebeb638e2e0800000000000000
+      internalID: -2096365433680709246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider (red)_125
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf2c57f6a6364f10800000000000000
+      internalID: 2253548754287996852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slider (red)_0: 4705750259819943041
+      Slider (red)_1: -6021208501899265586
+      Slider (red)_10: 9031903130363999331
+      Slider (red)_100: -593714517782212204
+      Slider (red)_101: 130110348921542999
+      Slider (red)_102: -4897453016905029221
+      Slider (red)_103: -8710463499130357273
+      Slider (red)_104: 5368526535382226457
+      Slider (red)_105: -7417223698415719724
+      Slider (red)_106: 778565550321021757
+      Slider (red)_107: 6248815066443513816
+      Slider (red)_108: 1755788763426459598
+      Slider (red)_109: -2187969029170600375
+      Slider (red)_11: 493275377255115876
+      Slider (red)_110: -2777240014366923485
+      Slider (red)_111: -6494156856853349116
+      Slider (red)_112: 7485842739201529940
+      Slider (red)_113: -5185984017417000780
+      Slider (red)_114: -69110407423793577
+      Slider (red)_115: 8241288733957742781
+      Slider (red)_116: -3125838674013321589
+      Slider (red)_117: 8620885624760931752
+      Slider (red)_118: -6021663773906037800
+      Slider (red)_119: 1685431003135513807
+      Slider (red)_12: 5656293335417706754
+      Slider (red)_120: 6651188811264078044
+      Slider (red)_121: 5533774778996598723
+      Slider (red)_122: -5987013916398163688
+      Slider (red)_123: -4027110590647470905
+      Slider (red)_124: -2096365433680709246
+      Slider (red)_125: 2253548754287996852
+      Slider (red)_13: 7919637528140765714
+      Slider (red)_14: -1982495981621358937
+      Slider (red)_15: 7270772931299707058
+      Slider (red)_16: 8484766076161221697
+      Slider (red)_17: -2035764880748095150
+      Slider (red)_18: -3051917535212776704
+      Slider (red)_19: 2803150855741045965
+      Slider (red)_2: -7641341334021599101
+      Slider (red)_20: 6652577310624017068
+      Slider (red)_21: 4614937361898531763
+      Slider (red)_22: 3120706331752770025
+      Slider (red)_23: 4874022525447170404
+      Slider (red)_24: -7703260137034046929
+      Slider (red)_25: -1440849579690307753
+      Slider (red)_26: -2484401417410774638
+      Slider (red)_27: -1817331343192578177
+      Slider (red)_28: -6729708466186225859
+      Slider (red)_29: 2528227113898326843
+      Slider (red)_3: 6852506099729670072
+      Slider (red)_30: 1262612092029584270
+      Slider (red)_31: 2641055152308035107
+      Slider (red)_32: 5107944672207019992
+      Slider (red)_33: -429272133796674784
+      Slider (red)_34: 8253173072458124943
+      Slider (red)_35: -5833230353592911325
+      Slider (red)_36: -2610733638751565584
+      Slider (red)_37: -3264176159451303526
+      Slider (red)_38: -7660414829196926499
+      Slider (red)_39: 8392161430325954752
+      Slider (red)_4: 7579944891900694584
+      Slider (red)_40: 7530082854285347429
+      Slider (red)_41: 5180617806256785285
+      Slider (red)_42: -8359300186804610312
+      Slider (red)_43: -4453684516107905774
+      Slider (red)_44: 388495634932556134
+      Slider (red)_45: -8192995644005103523
+      Slider (red)_46: 2481889093569335146
+      Slider (red)_47: -1628423967332519966
+      Slider (red)_48: -4094542893767253363
+      Slider (red)_49: 2736831064208318740
+      Slider (red)_5: 93812055932776364
+      Slider (red)_50: -4625977231997159180
+      Slider (red)_51: 5128832788696508975
+      Slider (red)_52: 2230193926037954668
+      Slider (red)_53: 2343741677194055241
+      Slider (red)_54: 1379795766005594846
+      Slider (red)_55: 1464652154188022487
+      Slider (red)_56: -2814359435206948825
+      Slider (red)_57: -8694771746672468496
+      Slider (red)_58: 162222953153868203
+      Slider (red)_59: -4242040020289376402
+      Slider (red)_6: 8245422607792205233
+      Slider (red)_60: 2396173527574110718
+      Slider (red)_61: -5894018445964429141
+      Slider (red)_62: -4963522076968238686
+      Slider (red)_63: 7861649981926970577
+      Slider (red)_64: -1146036922400128374
+      Slider (red)_65: -4395850955845781521
+      Slider (red)_66: 5484546772406831173
+      Slider (red)_67: -4125848756354739444
+      Slider (red)_68: -8086622411381009259
+      Slider (red)_69: -5284313102932873579
+      Slider (red)_7: 3899675674090548413
+      Slider (red)_70: 1490699979932700973
+      Slider (red)_71: -8552803957035851967
+      Slider (red)_72: -6571703539250510030
+      Slider (red)_73: -7819087466629921382
+      Slider (red)_74: -8590708778737363472
+      Slider (red)_75: 5655133414006880540
+      Slider (red)_76: 3498843180224606465
+      Slider (red)_77: -13392750940107158
+      Slider (red)_78: 4909712313800145928
+      Slider (red)_79: 7586483793199268416
+      Slider (red)_8: -9166246910065189087
+      Slider (red)_80: 5863637834363522827
+      Slider (red)_81: -4244050148213698399
+      Slider (red)_82: -6138880319661909471
+      Slider (red)_83: -5541553757988343545
+      Slider (red)_84: -5900032978507572742
+      Slider (red)_85: -6855526433627746697
+      Slider (red)_86: -3176856849309236996
+      Slider (red)_87: 6161153515548252606
+      Slider (red)_88: 4661953489450410472
+      Slider (red)_89: 2132612569585068678
+      Slider (red)_9: -4056390176335055358
+      Slider (red)_90: -3535716942562734228
+      Slider (red)_91: -8993587658945654197
+      Slider (red)_92: 7231836706138560477
+      Slider (red)_93: 1646330006487293971
+      Slider (red)_94: -3284970965137725602
+      Slider (red)_95: -7179913261317467379
+      Slider (red)_96: -5624659948938087098
+      Slider (red)_97: -2812348310354969274
+      Slider (red)_98: -5056115252276400691
+      Slider (red)_99: 1791478772743412915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

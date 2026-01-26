@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: cf87508ae0e68f84eb7e0d240c39b282
+  - enabled: 0
+    path: Assets/Scenes/OptionScene.unity
+    guid: bb21020ee88a77e438d430fde918418b
+  - enabled: 1
+    path: Assets/Scenes/GameSceneLaboratory/TimeLineStartScene.unity
+    guid: 764548227c89b434d83aa5d037a4a2a5
+  - enabled: 1
+    path: Assets/Scenes/GameSceneLaboratory/StealthMap.unity
+    guid: 2c6cdaa2407831e4699921ca8af98f80
+  - enabled: 1
+    path: Assets/Scenes/GameSceneLaboratory/TimeLineStartScene 1.unity
+    guid: 442d40a980e959d4ba3257ffd692d6f5
+  - enabled: 1
+    path: Assets/Scenes/GameSceneLaboratory/WaitingMap1.unity
+    guid: 876e1452390c374458684f1ef2de414c
+  - enabled: 1
+    path: Assets/Scenes/GameSceneLaboratory/WaitingMap2.unity
+    guid: 84cd0d574f50a4c4da5db5b9ae187154
+  - enabled: 1
+    path: Assets/Scenes/GameSceneLaboratory/LadderMap.unity
+    guid: d4163b69b73a259438e2accf02d53331
+  - enabled: 1
+    path: Assets/Scenes/SewerMap/SewerMap1.unity
+    guid: eb376decc68b5884088ea0fd22e8fc8f
+  - enabled: 1
+    path: Assets/Scenes/SewerMap/SewerMap2.unity
+    guid: b723d129c5698884797a0560fffa9f48
+  - enabled: 1
+    path: Assets/Scenes/SewerMap/SewerMap3.unity
+    guid: f1b461a2f261b814e8b4446bec4055ca
+  - enabled: 1
+    path: Assets/Scenes/SewerMap/PipeMap.unity
+    guid: e66154b6e1f08404cb4625688f0a12d3
+  - enabled: 1
+    path: Assets/Scenes/BossMap.unity
+    guid: fd7f440851c5f384daf54f7000ea0b80
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
