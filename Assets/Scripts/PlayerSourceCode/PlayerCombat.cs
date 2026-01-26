@@ -52,22 +52,34 @@ public class PlayerCombat : MonoBehaviour
      if(movement.IsGrounded)
         { anim.SetBool("AirAttackUsed", false); }
     }
+
+
     // InputSystem Attack 액션
+    /// <summary>
+    /// Unity Input System으로부터 공격 입력을 받아 처리합니다.
+    /// 상태에 따라 즉시 공격을 실행하거나 다음 콤보를 예약합니다.
+    /// </summary>
     public void OnAttack(InputAction.CallbackContext ctx)
     {
+        // 1. 입력의 중복 실행 방지 (버튼을 누른 시점에만 실행)
         if (!ctx.performed) return;
 
+        // 2. [예외 처리] 구르기(회피) 중에는 공격 입력을 무시하여 액션 간 우선순위 보장
         if (movement.IsRolling) return;
 
-        if(!movement.IsGrounded && anim.GetBool("AirAttackUsed")) return;
+        // 3. [공중 공격 제한] 공중 공격은 착지 전까지 1회만 가능하도록 제한 (에어 콤보 밸런싱)
+        if (!movement.IsGrounded && anim.GetBool("AirAttackUsed")) return;
 
+        // 4. 공격 로직 분기
         if (!isAttacking)
         {
+            // 현재 공격 중이 아니라면 즉시 공격 시퀀스 시작
             Attack();
         }
         else
         {
-            // 다음타 예약
+            // 이미 공격 중이라면 다음 타수를 예약(Input Buffering)하여 
+            // 플레이어에게 부드러운 콤보 조작감 제공
             saveAttack = true;
         }
     }
@@ -107,16 +119,23 @@ public class PlayerCombat : MonoBehaviour
     public void CloseCancelWindow() => CanCancelNow = false;
 
     // 콤보 체크 이벤트(막타 직전 or 전이 구간)
+    /// <summary>
+    /// 애니메이션 이벤트(Animation Event)를 통해 특정 프레임에서 호출됩니다.
+    /// 입력 예약(saveAttack) 여부를 확인하여 다음 콤보로 전환하거나 상태를 종료합니다.
+    /// </summary>
     public void ComboCheck()
     {
+        // 1. [입력 예약 확인] 공격 도중 추가적인 입력(OnAttack)이 발생했는지 체크
         if (saveAttack)
         {
-            Attack(); // 다음 콤보로 전환
-            return;
+            // 예약된 입력이 있다면 다음 타수(comboCounter 증가 등)를 연계하여 실행
+            Attack();
+            return; // 콤보 전환이 완료되었으므로 함수 종료
         }
+
+        // 2. [상태 정리] 예약된 입력이 없다면 공격 시퀀스를 종료하고 캐릭터의 조작권 복구
         EndAttackState();
     }
-
     // 안전 종료(클립 마지막 프레임 보장 호출)
     public void AttackEndCleanup() => EndAttackState();
 
