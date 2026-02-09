@@ -71,3 +71,7 @@ Project:D는 플레이어가 '포식자'로서 몬스터의 능력을 흡수하�
 ---
 
 
+##  동영상
+
+https://drive.google.com/file/d/1xxueEXLeYGKmsSdNAFEi3XofUE7LpcaH/view?usp=sharing
+
