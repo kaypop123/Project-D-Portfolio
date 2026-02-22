@@ -75,11 +75,20 @@ Project:D는 플레이어가 '포식자'로서 몬스터의 능력을 흡수하�
 
 https://drive.google.com/file/d/1xxueEXLeYGKmsSdNAFEi3XofUE7LpcaH/view?usp=sharing
 
-## 게임장면
-<img width="1966" height="1094" alt="image" src="https://github.com/user-attachments/assets/0623a2ed-f8ab-4aed-9640-390060193711" />
-<img width="1958" height="1100" alt="image" src="https://github.com/user-attachments/assets/7deb7857-cbcb-46eb-a616-95a5ec5aa73b" />
-<img width="1960" height="1104" alt="image" src="https://github.com/user-attachments/assets/77d91e8d-7a50-4267-8138-45267884d28d" />
-<img width="1954" height="1090" alt="image" src="https://github.com/user-attachments/assets/0d11e928-08b6-44b1-8b7a-70b78ce3738e" />
-<img width="1956" height="1092" alt="image" src="https://github.com/user-attachments/assets/14f6b0c5-1069-4985-a89d-966732baa653" />
-<img width="1946" height="1094" alt="image" src="https://github.com/user-attachments/assets/500f177e-c601-4592-b90a-4076258bb2f6" />
+---
+## 🎮 게임 장면
 
+<table width="100%">
+  <tr>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/0623a2ed-f8ab-4aed-9640-390060193711" width="100%"></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/7deb7857-cbcb-46eb-a616-95a5ec5aa73b" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/77d91e8d-7a50-4267-8138-45267884d28d" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/0d11e928-08b6-44b1-8b7a-70b78ce3738e" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/14f6b0c5-1069-4985-a89d-966732baa653" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/500f177e-c601-4592-b90a-4076258bb2f6" width="100%"></td>
+  </tr>
+</table>
